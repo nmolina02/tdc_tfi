@@ -1,0 +1,28 @@
+# Claude Code / agente
+.claude/
+
+# Salidas generadas por la simulacion
+resultados/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Editores / IDEs
+.vscode/
+.idea/
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
