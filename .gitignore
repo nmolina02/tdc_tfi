@@ -1,9 +1,6 @@
 # Claude Code / agente
 .claude/
 
-# Salidas generadas por la simulacion
-resultados/
-
 # Python
 __pycache__/
 *.py[cod]
